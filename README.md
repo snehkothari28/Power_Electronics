@@ -6,7 +6,7 @@ Created by **Sneh Kothari**
 
 ## Contents:
 
-This repo contents following projects:
+This repo contains following projects:
 1. cycloconverter with RL load based application <br />
 cyclo_rl.m
 
