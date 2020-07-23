@@ -1,5 +1,4 @@
 %created by Sneh Kothari
-%Enrollment: 180283109012
 
 
 classdef on_off_controller < matlab.apps.AppBase
