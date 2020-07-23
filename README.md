@@ -5,7 +5,7 @@ Developed on **MATLAB R2020a** <br />
 Created by **Sneh Kothari**
 
 **Also Available on:**
-[![View Power_Electronics on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/78544-power_electronics)
+[![View Power Electronics Experiments (Graduate Level) on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/78544-power-electronics-experiments-graduate-level)
 
 ## Contents:
 
